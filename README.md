@@ -51,7 +51,3 @@ The cleaned dataset includes the following variables:
 ## Disclaimer
 
 The data is sourced directly from the CAL FIRE website. Ensure proper attribution if used in any publication or project.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
