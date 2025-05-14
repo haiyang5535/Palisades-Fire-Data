@@ -4,6 +4,7 @@ import re
 def load_raw_data(filepath):
     return pd.read_csv(filepath)
 
+
 def extract_field(text, pattern, group=1, default=None, cast=None):
     match = re.search(pattern, text, re.MULTILINE)
     if match:
